@@ -1,0 +1,47 @@
+#main-nav{
+    float:right;
+}
+
+#main-nav li{
+    float:right;
+    padding: 0 20px 0 20px;
+}
+
+.navbar.navbar-default{
+    margin-bottom: 0;
+}
+
+.header-text{
+    text-align: center;
+}
+
+.col-md-4.skillsbox {
+    text-align: center;
+    margin-top:30px;
+}
+
+.container.jumbo{
+    width:100%;
+    padding:0;
+    margin:0;
+}
+
+.container.about{
+    margin-top: 30px;
+}
+
+.section-heading{
+    text-align: center;
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+}
+
+
+.about-box{
+    text-align: center;
+}
+
+.row.about-me{
+    padding: 35px 0 35px 0;
+}
+
